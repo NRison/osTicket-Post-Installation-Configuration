@@ -22,6 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 *Tip* <b>Right click to open in another tab otherwise it takes you to YouTube.</b> *Tip*
 
 
-<a href="https://www.youtube.com/watch?v=MB06WwzNIFQ&t=1527s"><img width="723" alt="Screen Shot 2025-03-08 at 12 57 36 PM" src="https://github.com/user-attachments/assets/22f64569-226d-431c-a135-fafbc935b9ad" />
+<a href="https://www.youtube.com/watch?v=MB06WwzNIFQ&t=1527s"><img width="723"    <img width="961" alt="Screen Shot 2025-05-19 at 1 43 50 AM" src="https://github.com/user-attachments/assets/16112bb5-dd7a-44f7-acac-c3bbb31378fe" />
+   
  </a>
 
