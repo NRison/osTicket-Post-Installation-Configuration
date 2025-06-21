@@ -8,11 +8,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Set Up Agents
-- Set Up Permissions
-- Set Up Rules
-- Item 4
-- Item 5
+- Setting Up Agent Profiles and Permissions
+
+
 
 <h2>Configuration Steps</h2>
 
