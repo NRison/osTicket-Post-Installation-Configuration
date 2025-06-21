@@ -9,6 +9,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Setting Up Agent Profiles and Permissions
+- Setting Up Ticket Processing Rules (SLA's)
 
 
 
