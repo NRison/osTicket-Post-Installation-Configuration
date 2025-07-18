@@ -13,7 +13,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<h2>Configuration Steps</h2>
 
 
 ![image](https://github.com/user-attachments/assets/f8c23556-c8e7-402c-9739-1de83c8ad9aa)  
